@@ -1,7 +1,7 @@
 import unittest
 
 
-class BrandOrdersTestCase(unittest.TestCase):
+class OrdersTestCase(unittest.TestCase):
     """
         Tests for brand_orders.py
     """

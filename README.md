@@ -2,6 +2,7 @@
 
 ## Notes
 * Python version used is 3.6
+* Run `$ pip install -r requirements.txt`
 
 ## Run code
 * `$ python orders.py`
